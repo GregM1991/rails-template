@@ -8,11 +8,11 @@ Link to github repo: www.github.myrepo.com
 Each time you have completed a requirement check it off the list. This way it will be easy for the educators as well as yourselves to track your progress.
 
 
-- [ ] 1. Create your app using Ruby on Rails.
-- [ ] 2. Use Postgresql database in development and production.
-- [ ] 3. My app has authentication (eg. Devise).
-- [ ] 4. My app has authorisation (i.e. users have restrictions on what they can see and edit).
-- [ ] 5. My app has some type of file (eg. images) uploading capability.
+- [x] 1. Create your app using Ruby on Rails.
+- [x] 2. Use Postgresql database in development and production.
+- [x] 3. My app has authentication (eg. Devise).
+- [x] 4. My app has authorisation (i.e. users have restrictions on what they can see and edit).
+- [x] 5. My app has some type of file (eg. images) uploading capability.
 - [ ] 6. My app is deployed to Heroku (recommended) or AWS.
 - [ ] 7. I have identified the problem I am trying to solve by building this particular marketplace app.
 - [ ] 8. I have explained why is it a problem that needs solving.
